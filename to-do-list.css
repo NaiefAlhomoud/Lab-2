@@ -1,11 +1,11 @@
 .my-list {
     margin:auto;
-    Background-color: #f7f381;
+    Background-color: #81f79f;
     Padding: 8px 24px;
     Width: 500px;
     font-size: 30px;
-    Border: 1px solid #f7f381;
-    Background-Color: #f7f381;
+    Border: 1px solid #81f79f;
+    Background-Color: #81f79f;
     box-shadow: 0 0 10px 2px #333333;
 }
 ol {
